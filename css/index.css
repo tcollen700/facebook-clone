@@ -186,8 +186,9 @@ nav>ul>li:first-child {
 }
 .image-post-text {
   max-height: 70px;
-  white-space: wrap;
+  white-space: nowrap;
   overflow-y: hidden;
+  overflow-x: hidden;
   text-overflow: ellipsis;
 }
 .post-text a {
