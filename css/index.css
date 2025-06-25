@@ -188,7 +188,6 @@ nav>ul>li:first-child {
   max-height: 70px;
   white-space: nowrap;
   overflow-y: hidden;
-  overflow-x: hidden;
   text-overflow: ellipsis;
 }
 .post-text a {
